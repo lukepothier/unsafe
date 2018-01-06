@@ -1,7 +1,3 @@
-# unsafe
-
-Experimenting with unsafe in C#
-
 # BenchmarkDotNet Results
 
 ``` ini
